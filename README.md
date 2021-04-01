@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tumrongpun You can call me Aom
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning React, Nodejs, NextJs
+- 💞️ I’m looking to collaborate on Team Tribe CNC and Front-end
+- 📫 How to reach me on slack @Tumrongpun (Aom)
